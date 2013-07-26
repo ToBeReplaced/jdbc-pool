@@ -1,5 +1,8 @@
 (defproject org.tobereplaced/jdbc-pool "0.1.0"
   :description "C3P0 connection pooling for org.clojure/java.jdbc ."
+  :url "https://github.com/ToBeReplaced/jdbc-pool"
+  :license {:name "Eclipse Public License"
+            :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [c3p0/c3p0 "0.9.1.2"]
                  [camel-snake-kebab "0.1.1"]
