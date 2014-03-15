@@ -1,5 +1,9 @@
 # jdbc-pool
 
+WARNING: I am no longer using this library, and it should be
+considered deprecated.  If you are looking for connection pooling,
+consider using BoneCP or C3P0 directly.
+
 C3P0 connection pooling for org.clojure/java.jdbc .
 
 ## Supported Clojure Versions
